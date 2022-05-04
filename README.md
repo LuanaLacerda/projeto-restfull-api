@@ -111,10 +111,10 @@ Essa é a rota que será chamada quando o usuario logado quiser excluir um dos s
 
 
 ### Linguagem, framework e/ou tecnologias usadas
-NodeJs
-Javascript
-PostgreSQL
-ExpressJs
+- NodeJs
+- Javascript
+- PostgreSQL
+- ExpressJs
 
 
 
